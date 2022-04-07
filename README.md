@@ -3,6 +3,7 @@ This project is about using C# Scripts to move around in the game view in Unity 
 Link to YouTube video about this project: https://youtu.be/buvePt4hVHI <br />
 Link to Unity Documentation: https://docs.unity3d.com/Manual/index.html <br />
 Playlist of YouTube Videos in this Series: https://youtube.com/playlist?list=PLDQ-bcm9sjaU8BaX41JHdLagBaXN5XCiS <br />
+Link to YouTube Channel: https://www.youtube.com/channel/UCOnHMcTYB7Po4chwtugLfyw <br />
 <br />
 ## Information About Other Parts of this Project <br />
 ### 2D-Turtle-With-Unity-Part-1
